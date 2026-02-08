@@ -21,10 +21,6 @@ A modern, full-featured ride-hailing application built with **React Native (Expo
 - **Payments**: Stripe (React Native SDK + Edge Functions)
 - **Design**: Stitch (UI Generation)
 
-## 📸 Screenshots
-
-![App Screens](assets/rideshare_screens.png)
-
 ## 🏁 Getting Started
 
 ### Prerequisites
