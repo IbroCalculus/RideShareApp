@@ -2,6 +2,8 @@
 
 A modern, full-featured ride-hailing application built with **React Native (Expo)**, **Supabase**, and **Stripe**. Inspired by apps like Uber and inDrive, this project demonstrates a real-time bidding engine where drivers and riders negotiate fares.
 
+![RideShare Banner](assets/rideshare_banner.png)
+
 ## 🚀 Features
 
 - **Real-time Bidding**: Riders request rides, drivers place bids, and riders accept the best offer.
@@ -21,11 +23,7 @@ A modern, full-featured ride-hailing application built with **React Native (Expo
 
 ## 📸 Screenshots
 
-|                         Onboarding                          |                         Rider View                          |                         Driver View                          |
-| :---------------------------------------------------------: | :---------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="assets/screenshots/onboarding.png" width="200" /> | <img src="assets/screenshots/rider_view.png" width="200" /> | <img src="assets/screenshots/driver_view.png" width="200" /> |
-
-_(Note: These screenshots are placeholders. Actual app screens may vary)_
+![App Screens](assets/rideshare_screens.png)
 
 ## 🏁 Getting Started
 
