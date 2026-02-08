@@ -21,7 +21,11 @@ A modern, full-featured ride-hailing application built with **React Native (Expo
 - **Payments**: Stripe (React Native SDK + Edge Functions)
 - **Design**: Stitch (UI Generation)
 
-## 🏁 Getting Started
+## 📸 Screenshots
+
+|                       Home                       |                  Ride Selection                  |                  Driver Tracking                  |
+| :----------------------------------------------: | :----------------------------------------------: | :-----------------------------------------------: |
+| <img src="assets/home_screen.png" width="200" /> | <img src="assets/ride_select.png" width="200" /> | <img src="assets/driver_track.png" width="200" /> |
 
 ### Prerequisites
 
